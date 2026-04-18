@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 abstract class AppColors {
-  // --- Light Theme Colors ---
+  // --- Light Theme Colors 1215532---
   static const Color primary = Color(0xFF6200EE);
   static const Color primaryVariant = Color(0xFF3700B3);
   static const Color secondary = Color(0xFF03DAC6);
